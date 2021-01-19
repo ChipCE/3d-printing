@@ -1,5 +1,7 @@
 # HevORT lite doc (work in progress)
 
+Document and stable-ish release files are moved to [https://github.com/ChipCE/HevORT-lite](HevORT lite github)
+
 ## About this project
 
 - Small printer that stable and can print fast  
