@@ -7,3 +7,5 @@
 - <code>z-motor-mount-rf.stl</code> : Z motor mount with thicker wall.  
 
 - <code>belt-mounter-tins.stl</code> : Use thread insert instead of m3 nut because of thin walls.  
+
+- <code>square-nut-holder.stl</code> : Holder to keep the m3 square nut from sliding freely in the 1515 extrusion.  
