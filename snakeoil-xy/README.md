@@ -3,7 +3,9 @@
 Small size, affordable and fast CoreXY 3D printer. Inspired by [HevORT](https://miragec79.github.io/HevORT/), [Voron](https://vorondesign.com/) and [Anex Engineering](https://github.com/Annex-Engineering) design.  
 This project was started as [HevORT lite](https://github.com/ChipCE/HevORT-lite), a trimdown design based on [HevORT corexy](https://miragec79.github.io/HevORT/) 3D printer. In the process of trying to make the printer easier to enclosure, parts easier to print without support, I ended up with redesign all of the parts.  
 
-The first release ETA is scheduled on the end 20 August 2021.
+The first release ETA is scheduled on the end of August 2021.
+
+Any suggestions, feature requests, questions are welcome, feel free to contact me via [Twitter](https://twitter.com/ChipMaple) or [Discord](https://discordapp.com/users/6158/)
 
 ## About this project
 
