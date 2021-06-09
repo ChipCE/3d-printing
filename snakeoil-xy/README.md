@@ -1,11 +1,11 @@
 # SnakeOil XY
 
 Small size, affordable and fast CoreXY 3D printer. Inspired by [HevORT](https://miragec79.github.io/HevORT/), [Voron](https://vorondesign.com/) and [Annex Engineering](https://github.com/Annex-Engineering) design.  
-This project was started as [HevORT lite](https://github.com/ChipCE/HevORT-lite), a trimdown design based on [HevORT corexy](https://miragec79.github.io/HevORT/) 3D printer. In the process of trying to make the printer easier to enclosure, parts easier to print without support, I ended up with redesign all of the parts.
+This project was started as [HevORT lite](https://github.com/ChipCE/HevORT-lite), a trimdown design based on [HevORT corexy](https://miragec79.github.io/HevORT/) 3D printer. In the process of trying to make the printer easier to enclosure, parts easier to print without support, I ended up with redesigned all of the parts.
 
 The first release ETA is scheduled on the end of August 2021.
 
-Any suggestions, feature requests, questions are welcome, feel free to contact me via [Twitter](https://twitter.com/ChipMaple) or [Join discord group](https://discord.gg/WZVP2HuAag)
+Any suggestions, feature requests, questions are welcomed, feel free to contact me via [Twitter](https://twitter.com/ChipMaple) or [Join discord group](https://discord.gg/WZVP2HuAag)
 
 ![Banner](./Doc/img/banner.png)
 
@@ -28,7 +28,7 @@ Any suggestions, feature requests, questions are welcome, feel free to contact m
 - [x] Filament spool inside machine chamber
 - [x] Standard 3030 T-slot frame support
 - [ ] Carbon fiber X gantry
-- [ ] AIO filament sensor + filament width sensor
+- [ ] AIO filament runout + width sensor
 - [x] Move XY motors inside chamber for easier enclosure. (XY motors can still be isolated from chamber with custom cut panel)
 
 ## Feature
@@ -41,6 +41,7 @@ Any suggestions, feature requests, questions are welcome, feel free to contact m
 | Eva compatible toolhead                    | EVA                               |
 | Filament spoll in side chamber             | Annex Engineering                 |
 | Auto build sheet detect and profile loader | Work in progress                  |
+| AIO filament runout + width sensor         | Work in progress                  |
 
 ## Q/A
 
