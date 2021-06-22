@@ -16,15 +16,13 @@
 | GN12H 250mm 250mm  | 6 | - |
 | Prusa mini spring steel PEI sheet  | 1 | - |
 | 150x150mm silicon heater pad  | 1 | - |
-| *193x190x8mm aluminum plate  | 1 | Misumi part number: A5052HP-6F-BSF-NNS-193-190-8-CCA10-CCB10-CAR |
+| **193x190x8mm aluminum plate  | 1 | 190x190mm also works |
 | Corner bracket  | 4 | Misumi part number : CHBLFSN8(sliver) or HBLFSNB8(black) |
 | *Extra corner bracket  | 19 | *Check note bellow |
 | *Blind joint nut  | 22 | misumi part number SHCJ6. *Check note bellow |
 | 8mm x 365mm length tube | 2 | This will be used for sliding door mechanism. In theory, any kind of tube with 8mm outer diameter will work |
 
 <code>*The frame is designed to be built with blind joint. Corner bracket canbe used instead of blind joint at many places(Check the CAD file for more detail). For blind joint, the "SHCJ6 Screw Joint" is recommended.</code>
-
-<code>** For the bed aluminum plate, 190x190mm also works. I use 8mm thick on my build, go with thicker plate than 8mm might cause the bed falling when power off the motors.</code>
 
 ## Electronic
 
@@ -44,7 +42,7 @@
 
 ## Idler, pulley and belt
 
-<code>The printer was designed based on dimension of Gates pylleys and idlers. Modify of printed parts might required to use other type of pulleys and idlers</code>
+<code>The printer was designed based on dimension of Gates pulleys and idlers. Modify of printed parts might required to use other type of pulleys and idlers</code>
 
 | Item | Quantity | Description/link(not affiliated) |
 | --- | --- | --- |
@@ -91,4 +89,9 @@
 | --- | --- | --- |
 | Diameter 5mm x 65mm length shaft | 3 |   |
 | Ring-shape magnet | 3 | [aliexpress](https://www.aliexpress.com/item/32839397491.html) |
+| 6x3mm round(disk) magnet | 8 |  |
+| 6x3mm round(disk) magnet | 8 |  |
+| 20x10x3m Block magnet | 3 |  |
+| 6mm x 12mm length shaft/pin | 6 | This will be used as the "rail" where the bed will slide on. Cutted linear shaft or some good m3 spacer(outer dia 6mm) also works |
+| Spring for bed plate mount (length about 10mm) | 3 | The yellow spring used to mount the bed plate. The spring will give the bed some room to "slide" when thermal expand occur.  |
 
