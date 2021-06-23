@@ -24,7 +24,7 @@
 | 8mm x 365mm length tube           | 2        | This will be used for sliding door mechanism. In theory, any kind of tube with 8mm outer diameter will work |
 | DIN rail 282mm                    | 1        |                                                                                                             |
 | DIN rail 309mm                    | 2        |                                                                                                             |
-| 2020 corner bracket               | 4        | Simple bracket like Misumi HBLSP5 is recommend                                                              |
+| 2020 corner bracket               | 4        | Simple bracket like Misumi HBLSP5 is recommended                                                            |
 
 <code>\*The frame is designed to be built with blind joint. Corner bracket canbe used instead of blind joint at many places(Check the CAD file for more detail). For blind joint, the "SHCJ6 Screw Joint" is recommended.</code>
 
